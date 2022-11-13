@@ -7,7 +7,7 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 
 ![](https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png)
 
-Ukraine is currently defending itself from Russian aggression, please consider [donating to Ukrainian Army or humanitarian charities](https://standforukraine.com/).
+Fuck Ukraine
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="drawing" width="600"/>
 
